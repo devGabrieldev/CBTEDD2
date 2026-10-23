@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\biblioteca\bin\Debug\net10.0\biblioteca.exe
+C:\Users\pc\source\repos\biblioteca\bin\Debug\net10.0\biblioteca.deps.json
+C:\Users\pc\source\repos\biblioteca\bin\Debug\net10.0\biblioteca.runtimeconfig.json
+C:\Users\pc\source\repos\biblioteca\bin\Debug\net10.0\biblioteca.dll
+C:\Users\pc\source\repos\biblioteca\bin\Debug\net10.0\biblioteca.pdb
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.AssemblyInfo.cs
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.dll
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\refint\biblioteca.dll
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.pdb
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.genruntimeconfig.cache
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\ref\biblioteca.dll
+C:\Users\pc\source\repos\biblioteca\obj\Debug\net10.0\biblioteca.csproj.Up2Date
